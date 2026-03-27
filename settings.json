@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "DarkXD Bot",
   "bot-account": {
     "username": "Technoblade",
-    "password": "",
+    "password": "101918",
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
+    "ip": "BhaiyaraSmp.aternos.me",
+    "port": 49419,
     "version": "1.21.1"
   },
   "position": {
@@ -31,8 +31,7 @@
       "repeat-delay": 500,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "I like to play in this Minecraft SMP!"
       ]
     },
     "chat-log": true,
